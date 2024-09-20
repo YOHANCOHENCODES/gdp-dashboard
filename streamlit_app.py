@@ -14,7 +14,6 @@ st.set_page_config(
 
 @st.cache_data
 
-a = 2
 def get_gdp_data():
     """Grab GDP data from a CSV file.
 
